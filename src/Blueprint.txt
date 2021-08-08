@@ -1,0 +1,5 @@
+first create the input text 
+
+step 2-print the text of the data
+
+step 3-Add Delete and Edit button
